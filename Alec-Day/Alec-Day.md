@@ -11,8 +11,8 @@ Bachelors of Science | Brigham Young University - Idaho | Rexburg, Idaho Septemb
 - GPA: 3.59</p>
 
 ### Computer Skills
-- Programming Languages: C# | Python | SQL</p><p>
-- Experienced in writing and running both manual and automated tests</p>
+- Programming Languages: C# | C++ | Python | SQL</p><p>
+- Manual/Automated Tests | Software Development | Git | Technical Writing | Linear Algebra | Applied Calculus in R | Organization | Communication</p>
 
 ### Projects
 
