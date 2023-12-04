@@ -22,12 +22,11 @@ Team Member | *Data Science Society |* Rexburg, Idaho September 2023 - December 
 
 ### Experience
 
-**Logistics Specialist** | *Kool Ice & Distribution LLC |* Rigby, Idaho April 2023 
-- Present Food Distribution Company</p><p>
+**Logistics Specialist** | *Kool Ice & Distribution LLC |* Rigby, Idaho April 2023 - Present</p><p>
 - Managed and Implemented route optimization to enhance cost efficiency, resulting in a 10% decrease in operational expenses</p><p>
 - Optimized inventory, procurement, and warehouse processes, leading to a 20% reduction in carrying costs and a 15% improvement in order fulfillment accuracy</p><p>
 
-**Teaching Assistant** | *Brigham Young University - Idaho |* Rexburg, Idaho September 2022 - Present Humanities Teaching Assistant</p><p>
+**Teaching Assistant** | *Brigham Young University - Idaho |* Rexburg, Idaho September 2022 - Present</p><p>
 - Collaborated with professors to curate and deliver course materials, resulting in a 20% increase in student engagement</p><p>
 - Optimized the Canvas course page by reorganizing modules, enhancing navigation, and integrating interactive elements, resulting in a 20% boost in quiz scores</p><p>
 
